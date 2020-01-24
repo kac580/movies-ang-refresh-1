@@ -2,12 +2,12 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 
 .jumbotron {
-    background-image: url("//placekitten.com/200/100");
+    background-image: url("//placedog.net/500");
     background-size: cover;
-    color: #eec6ee;
+    color: #161035;
 
 }
 
 li:nth-child(even){
-    color: #990099;
+    color: #d10718;
 }
