@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.jumbotron {
+    background-image: url("//placekitten.com/200/100");
+    background-size: cover;
+    color: #eec6ee;
+
+}
+
+li:nth-child(even){
+    color: #990099;
+}
